@@ -7,9 +7,9 @@ DApp = {
     networkId: 0,
     //local, mainnet, empty, ropsten
     tokenAddressList: ["0x8A5769bE1A538aF4259f8687c73bd03a26C1A78a","0xe172F366678EC7B559F6C2913a437BaaDfd4e6c8","","0x5f3ab60f01b92c1b50b713d3a70677ab7858c4e9"],
-    stakingAddressList: ["0xd06e9C6B3280FB3ee68264C29788B1A523a3ae99", "0x12ef4d13ab43ba4de1be7cc8385c6e9242aa42c0", "", "0xaf7bd599ebf63c58de5c03c00b49e21618195e01"],
+    stakingAddressList: ["0xd06e9C6B3280FB3ee68264C29788B1A523a3ae99", "0x234C639e284df4Bbc1f028249d13A9De2E3A48f4", "", "0xaf7bd599ebf63c58de5c03c00b49e21618195e01"],
     graphEndpointList: ["https://api.thegraph.com/subgraphs/name/radek1st/kauri-ropsten",
-        "https://api.thegraph.com/subgraphs/name/radek1st/kauri","",
+        "https://api.thegraph.com/subgraphs/name/radek1st/kauri2","",
         "https://api.thegraph.com/subgraphs/name/radek1st/kauri-ropsten"],
 
     tokenAddress: "",
